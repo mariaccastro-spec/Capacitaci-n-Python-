@@ -1,0 +1,11 @@
+ID_Empleado,Nombre,Departamento,Sueldo_Bruto,Fecha_Ingreso,Evaluacion
+101, Ana Silva,Ventas,3500,1/10/2021,4.5
+102,Juan Perez,IT,4200,5/15/2020,3.8
+103,Marta Gomez,it,,3/1/2022,4
+104,Carlos Ruiz,Recursos Humanos,3800,11/20/2021,2.5
+105,Elena Ferri,Ventas,3500,8/12/2019,4.8
+101, Ana Silva,Ventas,3500,1/10/2021,4.5
+106,Luis Sosa,Contabilidad,3000,2/1/2023,3
+107,ana silva,Ventas,3500,1/10/2021,4.5
+108,Lucia Sanz,IT,4100,12/1/2020,4.2
+109,Pepe Vila,RRHH,,5/10/2022,3.9
